@@ -1,0 +1,171 @@
+<psantanacover.jpeg2ver.jpeg"
+    width="300"
+/>
+</p>
+/santanar2
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+
+DIO - Code The Future 🔴 LIVE CODE
+
+Podcast Destiny 2 A forma final
+
+Projeto Podcast Gerado por I.A.s
+ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+MidJourney
+ElevenLabs
+Capcut
+✨ Como foi feito ?
+Roteiro gerado via chatgpt
+Audio gercover.jpegdo pela elevenLabs
+Midjourney Para gerar capas
+Capcut para tratar aúdio e adicionar sons de fundo
+📚 Materiais
+Link da live no Youtube
+Notion Template
+Editor de aúdio
+🛠️ Instruções de execução
+Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+🤖 1. Use os prompts de roteiro no chagpt
+
+DIO - Code The Future 🔴 LIVE CODE
+
+Podcast Destiny 2 A forma final
+
+Projeto Podcast Gerado por I.A.s
+ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+MidJourney
+ElevenLabs
+Capcut
+✨ Como foi feito ?
+Roteiro gerado via chatgpt
+Audio gerado pela elevenLabs
+Midjourney Para gerar capas
+Capcut para tratar aúdio e adicionar sons de fundo
+📚 Materiais
+Link da live no Youtube
+Notion Template
+Editor de aúdio
+🛠️ Instruções de execução
+Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+🤖 1. Use os prompts de roteiro no chagpt
+🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+🤖 3. Use os prompts de artes no midjourney
+👨‍💻 Expert
+
+
+   SANTANAR2
+    GitHub | LinkedIn | Instagram |
+   
+
+⌨️ com 💜 por SADestiny 2 a forma final🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+🤖 3. Use os prompts de artes no midjourney
+👨‍💻 Expert
+
+
+   SANTANAR2
+    GitHub | LinkedIn | Instagram |
+P Destiny 2 A forma finalSANTANAR2SANTANAR2
+⌨️ com 💜 por SADestiny 2 a forma final<a href="https://dio.me/">
+<img 
+    src="cover.jpeg" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
+<p align="center">
+    Podcast Destiny 2 A forma final
+</p>
+
+<div align="center">
+    <audio src="output/podcast destiny 2 a forma final.mp3" controls title="Podcast Destiny 2 a forma final"></audio>
+</div>
+
+# Projeto Podcast Gerado por I.A.s
+
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+
+## 📚 Materiais
+
+- [Link da live no Youtube](https://www.youtube.com)
+- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+santanar2o
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Useos prompts de artes no `midjourney`
+
+## 👨‍💻 Expert
+/santanar2
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="assets/EU.jpeg"
+    />
+    <p>&nbsp&nbsp&nbspSANTANAR2<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/santanar2">
+        GitHub
+    </a>
+     | 
+    <a 
+        href="www.linkedin.com/in/">
+        LinkedIn
+    </a>
+     | 
+    <a 
+        href="https://www.instagram.com/">
+        Instagram
+    </a>
+     | </p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [SANTANAR2](https://github.com/santanar2)
